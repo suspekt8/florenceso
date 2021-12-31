@@ -28,7 +28,10 @@ organizations:
   - name: University of Lund
     url: https://www.svet.lu.se/en/florence-so
 education:
-  courses: []
+  courses:
+    - year: 2016
+      institution: UCLA
+      course: PhD
 email: florence.so@svet.lu.se
 superuser: true
 highlight_name: true
