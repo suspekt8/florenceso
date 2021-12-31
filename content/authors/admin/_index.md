@@ -29,9 +29,15 @@ organizations:
     url: https://www.svet.lu.se/en/florence-so
 education:
   courses:
-    - year: 2016
+    - year: 2013
       institution: UCLA
       course: PhD
+    - course: MA
+      institution: University of San Diego
+      year: 1993
+    - course: B.S.
+      year: 2003
+      institution: Kelvin University
 email: florence.so@svet.lu.se
 superuser: true
 highlight_name: true
