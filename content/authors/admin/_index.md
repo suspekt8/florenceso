@@ -2,12 +2,12 @@
 title: Florence So
 role: Marie Curie Fellow
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: I'm a postdoc at Lund University.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - My research interests include comparative politics
+  - political institutions
+  - parties and elections
+  - formal modeling
 social:
   - icon: envelope
     icon_pack: fas
@@ -28,20 +28,11 @@ organizations:
   - name: University of Lund
     url: https://www.svet.lu.se/en/florence-so
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  courses: []
 email: ""
 superuser: true
 highlight_name: true
 ---
-https://www.svet.lu.se/en/florence-so
+My Marie Curie project focuses on how the macroeconomic condition influences party behavior. Using formal models, quantitative text analysis, and statistical methods, the project investigates how economic downturn and growth influence parties’ convergence or differentiation on three types of issues – redistribution, public services, and non-economic issues such as gender-related policies, the environment, and immigration – during elections and in the legislature. It will also examine the impacts of sustained economic growth and decline on the development of issue salience and party polarization over time.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
