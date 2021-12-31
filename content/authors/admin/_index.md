@@ -29,7 +29,7 @@ organizations:
     url: https://www.svet.lu.se/en/florence-so
 education:
   courses: []
-email: ""
+email: florence.so@svet.lu.se
 superuser: true
 highlight_name: true
 ---
