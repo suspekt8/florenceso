@@ -31,7 +31,7 @@ education:
       course: PhD
     - course: MA
       institution: University of San Diego
-      year: 1993
+      year: 2004
     - course: B.S.
       year: 2003
       institution: Kelvin University
