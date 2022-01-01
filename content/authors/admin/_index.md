@@ -38,8 +38,8 @@ highlight_name: true
 ---
 I'm currently a Marie Curie Fellow at the Department of Political Science at the University of Lund in Sweden. My 2 year project is funded by the European Union. 
 
-I received my PhD from UCLA; before joining the department, I was an assistant professor at the department of Political Science at Aarhus University. 
-
 My Marie Curie project focuses on how the macroeconomic condition influences party behavior. Using formal models, quantitative text analysis, and statistical methods, the project investigates how economic downturn and growth influence parties’ convergence or differentiation on three types of issues – redistribution, public services, and non-economic issues such as gender-related policies, the environment, and immigration – during elections and in the legislature. It will also examine the impacts of sustained economic growth and decline on the development of issue salience and party polarization over time.
+
+I received my PhD from UCLA; before joining the department, I was an assistant professor at the department of Political Science at Aarhus University. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
