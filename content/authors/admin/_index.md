@@ -2,7 +2,7 @@
 title: Florence So
 role: Marie Curie Fellow
 avatar_filename: avatar.jpg
-bio: I'm a postdoc at Lund University.
+bio: I'm a postdoc at the University of Lund.
 interests:
   - My research interests include comparative politics
   - political institutions
@@ -31,7 +31,7 @@ education:
       year: 2004
     - course: B.S.
       year: 2003
-      institution: Kelvin University
+      institution: Kalvin University
 email: florence.so@svet.lu.se
 superuser: true
 highlight_name: true
