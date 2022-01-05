@@ -21,12 +21,12 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: florence.so@svet.lu.se
-phone: +46 46-222 40 06
+phone: +46 222 40 06
 address: Department of Political Science, Statsvetenskapliga institutionen
   street: 14 Allhelgona kyrkogata
   city: Lund
   region: 
-  postcode: 221 00
+  postcode: '221 00'
   country: Sweden
   country_code: SE
 contact_links:
