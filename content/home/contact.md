@@ -1,3 +1,8 @@
+---
+widget: contact
+widget_id: contact
+weight: 100
+---
 widget: contact
 headless: true  # This file represents a page section.
 
