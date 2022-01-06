@@ -7,6 +7,8 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 ---
-Marie Curie project
+**Principal Investigator, Marie Curie Individual Fellowship, The European Commission 2021-2023**
+- Project Title "The Impacts of Economic Growth and Decline on Party Behavior"
 
-Carsberg project
+**Principal Investigator, Carlsberg Foundation Postdoctoral Grant, Denmark 2016-2018**
+- Project Title: "Electoral Institutions and Political Divisiveness in Established Democracies"
