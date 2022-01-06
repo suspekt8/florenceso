@@ -33,6 +33,6 @@ in Large Opposition Parties." *Party Politics* 24 (5): 588-597.
 
 - "Does Perceived Party Polarization Threaten Citizens' Political Engagement?"
 
-- "Doomed To Discord? Electoral Institutions' E ects on Political Divisiveness"
+- "Doomed To Discord? Electoral Institutions' Effects on Political Divisiveness"
 
 - "The Benefits of Infighting: Why Factions Protect Coalitions against Policy Shocks"
