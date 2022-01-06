@@ -36,4 +36,4 @@ in Large Opposition Parties." Party Politics 24 (5): 588-597.
 
 - "Doomed To Discord? Electoral Institutions' E ects on Political Divisiveness"
 
-- "The Bene ts of In ghting: Why Factions Protect Coalitions against Policy Shocks"
+- "The Benefits of Infighting: Why Factions Protect Coalitions against Policy Shocks"
