@@ -42,4 +42,4 @@ My Marie Curie project focuses on how the macroeconomic condition influences par
 
 I received my PhD from UCLA; before joining the department, I was an assistant professor at the department of Political Science at Aarhus University. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Florence So CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
