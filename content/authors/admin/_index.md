@@ -17,7 +17,7 @@ social:
     link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&authuser=1&user=I_i4XjsAAAAJ
 organizations:
   - name: Lund University
     url: https://www.svet.lu.se/en/florence-so
@@ -31,7 +31,7 @@ education:
       year: 2004
     - course: B.S.
       year: 2003
-      institution: Kalvin University
+      institution: Calvin University
 email: florence.so@svet.lu.se
 superuser: true
 highlight_name: true
