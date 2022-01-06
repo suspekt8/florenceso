@@ -23,3 +23,10 @@ Christo er Green-Pedersen and Peter B. Mortensen) Political Research Quarterly
 
 2018: "More Spotlight, More Problems? Westminster Parliamentary Systems and Leadership Replacement
 in Large Opposition Parties." Party Politics 24 (5): 588-597.
+
+*Papers under review*
+
+"Electoral Accountability for Government Dissolution" (October 2021)
+
+"Disentangling Positive versus Negative Economic Voting: The Role of Partisanship" (December
+2021)
