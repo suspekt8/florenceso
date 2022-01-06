@@ -19,7 +19,7 @@ Shift." Journal of Theoretical Politics 30 (2): 246-266.
 Henrik Seeberg and Rune Stubager) Electoral Studies 52: 1-10.
 
 2018: "The Agenda Setting Power of the Prime Minister Party in Coalition Governments." (with
-Christo er Green-Pedersen and Peter B. Mortensen) Political Research Quarterly 71 (4): 473-456.
+Christoffer Green-Pedersen and Peter B. Mortensen) Political Research Quarterly 71 (4): 473-456.
 
 2018: "More Spotlight, More Problems? Westminster Parliamentary Systems and Leadership Replacement
 in Large Opposition Parties." Party Politics 24 (5): 588-597.
