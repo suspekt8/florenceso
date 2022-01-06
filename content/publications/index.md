@@ -30,3 +30,11 @@ in Large Opposition Parties." Party Politics 24 (5): 588-597.
 
 "Disentangling Positive versus Negative Economic Voting: The Role of Partisanship" (December
 2021)
+
+## Working papers
+
+"Does Perceived Party Polarization Threaten Citizens' Political Engagement?"
+
+"Doomed To Discord? Electoral Institutions' E ects on Political Divisiveness"
+
+"The Bene ts of In ghting: Why Factions Protect Coalitions against Policy Shocks"
