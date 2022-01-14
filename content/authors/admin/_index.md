@@ -14,7 +14,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/FloriSoPoliSci
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&authuser=1&user=I_i4XjsAAAAJ
@@ -42,4 +42,4 @@ My Marie Curie project focuses on how the macroeconomic condition influences par
 
 I received my PhD from UCLA; before joining the department, I was an assistant professor at the department of Political Science at Aarhus University. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Florence So CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Florence So CV.pdf" "newtab" >}}CV{{< /staticref >}}.
