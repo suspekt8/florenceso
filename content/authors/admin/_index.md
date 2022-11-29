@@ -22,21 +22,12 @@ organizations:
   - name: Lund University
     url: https://www.svet.lu.se/en/florence-so
 education:
-  courses:
-    - year: 2013
-      institution: UCLA
-      course: PhD
-    - course: MA
-      institution: University of San Diego
-      year: 2004
-    - course: B.S.
-      year: 2003
-      institution: Calvin University
+  courses: []
 email: florence.so@svet.lu.se
 superuser: true
 highlight_name: true
 ---
-I'm currently a Marie Curie Fellow at the [Department of Political Science at Lund University](https://www.svet.lu.se/en/florence-so) in Sweden. My 2 year project is funded by the European Union. 
+I'm currently a Marie Curie Fellow at the [Department of Political Science at Lund University](https://www.svet.lu.se/en/florence-so) in Sweden. My two-year project is funded by the European Union.
 
 My Marie Curie project focuses on how the macroeconomic condition influences party behavior. Using formal models, quantitative text analysis, and statistical methods, the project investigates how economic downturn and growth influence parties’ convergence or differentiation on three types of issues – redistribution, public services, and non-economic issues such as gender-related policies, the environment, and immigration – during elections and in the legislature. It will also examine the impacts of sustained economic growth and decline on the development of issue salience and party polarization over time.
 
