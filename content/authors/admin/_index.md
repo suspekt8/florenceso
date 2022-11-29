@@ -1,7 +1,7 @@
 ---
 title: Florence So
 role: Marie Curie Fellow
-avatar_filename: avatar.jpg
+avatar_filename: icon.jpeg
 bio: I'm a postdoc at the Lund University.
 interests:
   - My research interests include comparative politics
