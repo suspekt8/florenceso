@@ -22,16 +22,3 @@ Henrik Seeberg and Rune Stubager) *Electoral Studies* 52: 1-10. https://doi.org/
 
 - 2018: "The Agenda Setting Power of the Prime Minister Party in Coalition Governments." (with
 Christoffer Green-Pedersen and Peter B. Mortensen) *Political Research Quarterly* 71 (4): 473-456. https://doi.org/10.1177/1065912918761007
-
-
-## Working papers
-
-- "Electoral Accountability for Government Dissolution" (under review)
-
-- "Disentangling Positive versus Negative Economic Voting" (under review)
-
-- "The Economy, Representation, and Satisfaction with Democracy" (under review)
-
-- "Doomed To Discord? Electoral Institutions' Effects on Political Divisiveness"
-
-- "The Benefits of Infighting: Why Factions Protect Coalitions against Policy Shocks"
