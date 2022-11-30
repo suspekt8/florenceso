@@ -4,7 +4,6 @@ role: Marie Curie Fellow
 avatar_filename: avatar.jpg
 bio: I'm a postdoc at the Lund University.
 interests:
-  - My research interests include comparative politics
   - political institutions
   - parties and elections
   - formal modeling
