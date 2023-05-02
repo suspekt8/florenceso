@@ -4,11 +4,11 @@ role: Marie Curie Fellow
 avatar_filename: avatar.jpg
 bio: I'm a postdoc at the Lund University.
 interests:
-  - political institutions
   - parties and elections
-  - formal modeling
   - consequences of gender discrimination
   - elite and mass polarization
+  - political institutions
+  - formal modeling
 social:
   - icon: envelope
     icon_pack: fas
