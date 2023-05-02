@@ -7,7 +7,7 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 ---
-- 2023: "Serious Conflicts with Benign Outcomes? The Electoral Consequences of Conflictual Cabinet Terminations" Conditional accept at the_ American Political Science Review_
+- 2023: "Serious Conflicts with Benign Outcomes? The Electoral Consequences of Conflictual Cabinet Terminations" Conditional accept at the *American Political Science Review*
 
 - 2021: "Don't Air Your Dirty Laundry: Party Leadership Contests, Policy Competence, and Parliamentary
 Election Outcomes." *The European Journal of Political Research* https://doi.org/10.1111/1475-6765.12383
