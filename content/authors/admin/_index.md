@@ -7,6 +7,8 @@ interests:
   - political institutions
   - parties and elections
   - formal modeling
+  - consequences of gender discrimination
+  - elite and mass polarization
 social:
   - icon: envelope
     icon_pack: fas
