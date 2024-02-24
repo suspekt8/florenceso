@@ -11,7 +11,7 @@ comments: false  # Show comments?
 - Project title: "Divided Parliaments? Polarization, Moralization, and the Risk of Gridlock."
 
 **Principal Investigator, Marie Curie Individual Fellowship, The European Commission 2021-2023**
-- Project Title "The Impacts of Economic Growth and Decline on Party Behavior"
+- Project title "The Impacts of Economic Growth and Decline on Party Behavior"
 
 **Principal Investigator, Carlsberg Foundation Postdoctoral Grant, Denmark 2016-2018**
-- Project Title: "Electoral Institutions and Political Divisiveness in Established Democracies"
+- Project title: "Electoral Institutions and Political Divisiveness in Established Democracies"
