@@ -8,7 +8,7 @@ comments: false  # Show comments?
 
 ---
 **Co-Investigator, Riksbankens Jubileumsfond, Sweden 2024-2026**
--Project title: "Divided Parliaments? Polarization, Moralization, and the Risk of Gridlock."
+- Project title: "Divided Parliaments? Polarization, Moralization, and the Risk of Gridlock."
 
 **Principal Investigator, Marie Curie Individual Fellowship, The European Commission 2021-2023**
 - Project Title "The Impacts of Economic Growth and Decline on Party Behavior"
