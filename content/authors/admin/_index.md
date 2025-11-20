@@ -28,6 +28,8 @@ highlight_name: true
 ---
 I'm currently an Associate Professor at the [Department of Political Science at Gothenburg University](https://www.gu.se/en/political-science) in Sweden. 
 
+From Jan 2026, I will be leading the project ECONENGAGE, funded by a ERC Starting Grant. Read more about my project  [here](https://www.gu.se/en/news/political-engagement-in-good-times-studied-in-erc-project). 
+
 Before that, I was Marie Curie postdoc fellow at [Department of Political Science at Lund University](https://www.svet.lu.se/en/florence-so). My focused on how the macroeconomic condition influences party behavior. Using formal models, quantitative text analysis, and statistical methods, the project investigates how economic downturn and growth influence parties’ convergence or differentiation on three types of issues – redistribution, public services, and non-economic issues such as gender-related policies, the environment, and immigration – during elections and in the legislature. It will also examine the impacts of sustained economic growth and decline on the development of issue salience and party polarization over time.
 
 I received my PhD from UCLA; before joining the department, I was an assistant professor at the Department of Political Science at Aarhus University. 
