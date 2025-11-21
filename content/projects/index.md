@@ -5,6 +5,7 @@ reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
+---
 
 PI, ERC Starting Grant, 2026-2031
 **Project title: “More Money, Different Problems? Peoples’ Engagement with Politics during Good Economic Times”**
@@ -12,7 +13,7 @@ Economic downturns can be a breeding ground for extremist politics. Yet, we know
 
 ECONENGAGE is organized into four work packages (WPs). WP1 uncovers the criteria that different individuals use to define economic improvement, using existing and original survey data. In WP2, I will further examine the theoretical mechanisms and generate testable hypotheses for how economic improvement affects people’s political information processing and degree of entrenchment in their ideological beliefs. WP3 tests these hypotheses with cross-national survey data in OECD countries and three experiments in Sweden and the UK, countries that differ markedly in economic and political institutions. WP4 investigates the broader impacts of economic improvement on the stakes people attach to elections, preferences for democratic decision-making rules, and commitment to ideological pluralism. ECONENGAGE will provide us with novel tools to better understand vitally important global trends of rising misinformation and inter-group hostility and suggest ways to ensure vibrant democratic engagement in both good times and bad.
 
----
+
 **Co-Investigator, Riksbankens Jubileumsfond, Sweden 2024-2027**
 - Project title: "Divided Parliaments? Polarization, Moralization, and the Risk of Gridlock."
 
