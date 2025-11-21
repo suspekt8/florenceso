@@ -16,22 +16,27 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/FloriSoPoliSci
+  - icon: bluesky
+    icon_pack: fab
+    link: @floriso.bsky.social
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&authuser=1&user=I_i4XjsAAAAJ
 organizations:
   - name: Lund University
     url: https://www.svet.lu.se/en/florence-so
-email: florence.so@svet.lu.se
+email: florence.so@gu.se
 superuser: true
 highlight_name: true
 ---
-I'm currently an Associate Professor at the [Department of Political Science at Gothenburg University](https://www.gu.se/en/political-science) in Sweden. 
+I’m an Associate Professor at the [Department of Political Science at Gothenburg University](https://www.gu.se/en/political-science) in Sweden.
 
-From Jan 2026, I will be leading the project ECONENGAGE, funded by a ERC Starting Grant. Read more about my project  [here](https://www.gu.se/en/news/political-engagement-in-good-times-studied-in-erc-project). 
+My research interests include coalitions; democratic attitudes; formal modeling and game theory; gender dynamics; parties and elections; and political economy and behavior. I’m particularly interested in 1) how the national economy and institutional dynamics affect individuals’ conceptualizations of democracy as well as their preferred democratic institutions, and 2) how gender and other forms of biases among individuals affect politics and the economy. 
 
-Before I was Marie Curie postdoc fellow at [Department of Political Science at Lund University](https://www.svet.lu.se/en/florence-so). My focused on how the macroeconomic condition influences party behavior. Using formal models, quantitative text analysis, and statistical methods, the project investigates how economic downturn and growth influence parties’ convergence or differentiation on three types of issues – redistribution, public services, and non-economic issues such as gender-related policies, the environment, and immigration – during elections and in the legislature. It will also examine the impacts of sustained economic growth and decline on the development of issue salience and party polarization over time.
+From August 2026, I will be leading ECONENGAGE, funded by an ERC Starting Grant. The project will examine the dynamics between national and individual economic conditions and investigate how national economic improvement affects individuals’ consumption of political information; their propensity to become politically misinformed; their degrees of ideological entrenchment; and their democratic attitudes and preferences. Feel free to read more about my project [here](https://www.gu.se/en/news/political-engagement-in-good-times-studied-in-erc-project).
 
-I received my PhD from UCLA; I was an assistant professor at the Department of Political Science at Aarhus University. 
+Aside from academic life, I enjoy cooking, playing the piano, knitting, and exploring food, music, and culture in different cities. Any suggestions on new knitting patterns, recipes, and/or musical events would be much appreciated!
+
+I am passionate about fostering congenial and supportive academic environments and enhancing opportunities for junior female and/or minority scholars as well as scholars from traditionally underprivileged backgrounds. Please don’t hesitate to reach out if you have and any ideas! I’m also happy to hear about individual experiences and lend a listening ear – please feel free to reach out! 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Florence So CV.pdf" "newtab" >}}CV{{< /staticref >}}.
