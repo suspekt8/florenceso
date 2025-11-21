@@ -7,6 +7,8 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 ---
+- 2024: “Serious Conflicts with Benign Outcomes? The Electoral Consequences of Conflictual Cabinet Terminations”, American Political Science Review 118(3), 1449-1463. https://doi.org/10.1017/S000305542300093X
+
 - 2023: "Serious Conflicts with Benign Outcomes? The Electoral Consequences of Conflictual Cabinet Terminations", *American Political Science Review*, https://doi.org/10.1017/S000305542300093X
 
 - 2021: "Don't Air Your Dirty Laundry: Party Leadership Contests, Policy Competence, and Parliamentary
