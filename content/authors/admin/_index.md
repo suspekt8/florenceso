@@ -18,7 +18,7 @@ social:
     link: https://twitter.com/FloriSoPoliSci
   - icon: bluesky
     icon_pack: fab
-    link: @floriso.bsky.social
+    link: https://bsky.app/profile/@floriso.bsky.social
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&authuser=1&user=I_i4XjsAAAAJ
