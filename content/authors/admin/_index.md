@@ -1,8 +1,8 @@
 ---
 title: Florence So
-role: Marie Curie Fellow
+role: Associate Professor
 avatar_filename: avatar.jpg
-bio: I'm a postdoc at the Lund University.
+bio: I'm an Associate Professor at the Gothenburg University.
 interests:
   - parties and elections
   - consequences of gender discrimination
@@ -23,8 +23,8 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&authuser=1&user=I_i4XjsAAAAJ
 organizations:
-  - name: Lund University
-    url: https://www.svet.lu.se/en/florence-so
+  - name: Gothenburg University
+    url: https://www.gu.se/en/about/find-staff/florenceso
 email: florence.so@gu.se
 superuser: true
 highlight_name: true
