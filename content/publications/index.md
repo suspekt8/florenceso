@@ -7,9 +7,9 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 ---
-- 2024: “Serious Conflicts with Benign Outcomes? The Electoral Consequences of Conflictual Cabinet Terminations”, American Political Science Review 118(3), 1449-1463. https://doi.org/10.1017/S000305542300093X
+- 2026: Hjermitslev, I. B., & So, F. (2026). The impacts of scandal-based coalition terminations on voters. European Journal of Political Research, 1–25. doi:10.1017/S1475676526101194
 
-- 2023: "Serious Conflicts with Benign Outcomes? The Electoral Consequences of Conflictual Cabinet Terminations", *American Political Science Review*, https://doi.org/10.1017/S000305542300093X
+- 2024: “Serious Conflicts with Benign Outcomes? The Electoral Consequences of Conflictual Cabinet Terminations”, American Political Science Review 118(3), 1449-1463. https://doi.org/10.1017/S000305542300093X
 
 - 2021: "Don't Air Your Dirty Laundry: Party Leadership Contests, Policy Competence, and Parliamentary
 Election Outcomes." *The European Journal of Political Research* https://doi.org/10.1111/1475-6765.12383
