@@ -4,11 +4,11 @@ role: Associate Professor
 avatar_filename: avatar.jpg
 bio: I'm an Associate Professor at the Gothenburg University.
 interests:
-  - parties and elections
-  - consequences of gender discrimination
-  - elite and mass polarization
-  - political institutions
-  - formal modeling
+  - Pol Economy
+  - Political Behavior
+  - Coalitions Democratic Attitudes
+  - The Consequences of Gender Bias
+  - Parties and Elections
 social:
   - icon: envelope
     icon_pack: fas
