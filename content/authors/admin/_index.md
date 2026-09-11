@@ -29,7 +29,7 @@ email: florence.so@gu.se
 superuser: true
 highlight_name: true
 ---
-I’m an Associate Professor at the [Department of Political Science at Gothenburg University](https://www.gu.se/en/political-science) in Sweden.
+I’m an Associate Professor at the [Department of Political Science at the University of Gothenburg](https://www.gu.se/en/political-science) in Sweden.
 
 My research interests include coalitions; democratic attitudes; formal modeling and game theory; gender dynamics; parties and elections; and political economy and behavior. I’m particularly interested in 1) how the national economy and institutional dynamics affect individuals’ conceptualizations of democracy as well as their preferred democratic institutions, and 2) how gender and other forms of biases among individuals affect politics and the economy. 
 
