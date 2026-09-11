@@ -4,7 +4,7 @@ role: Associate Professor
 avatar_filename: avatar.jpg
 bio: I'm an Associate Professor at the Gothenburg University.
 interests:
-  - Pol Economy
+  - Political Economy
   - Political Behavior
   - Coalitions Democratic Attitudes
   - The Consequences of Gender Bias
