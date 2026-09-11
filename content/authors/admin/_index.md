@@ -6,7 +6,8 @@ bio: I'm an Associate Professor at the Gothenburg University.
 interests:
   - Political Economy
   - Political Behavior
-  - Coalitions Democratic Attitudes
+  - Coalitions
+  - Democratic Attitudes
   - The Consequences of Gender Bias
   - Parties and Elections
 social:
