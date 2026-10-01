@@ -2,7 +2,7 @@
 title: Florence So
 role: Associate Professor
 avatar_filename: avatar.jpg
-bio: I'm an Associate Professor at the Gothenburg University.
+bio: I'm an Associate Professor at the University of Gothenburg.
 interests:
   - Political Economy
   - Political Behavior
@@ -24,7 +24,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&authuser=1&user=I_i4XjsAAAAJ
 organizations:
-  - name: Gothenburg University
+  - name: University of Gothenburg
     url: https://www.gu.se/en/about/find-staff/florenceso
 email: florence.so@gu.se
 superuser: true
