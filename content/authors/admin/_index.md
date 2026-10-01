@@ -2,7 +2,7 @@
 title: Florence So
 role: Associate Professor
 avatar_filename: avatar.jpg
-bio: I'm an Associate Professor at the Gothenburg University.
+bio: I'm an Associate Professor at the University of Gothenburg.
 interests:
   - Political Economy
   - Political Behavior
